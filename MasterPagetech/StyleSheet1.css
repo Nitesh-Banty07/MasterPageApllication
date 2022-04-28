@@ -1,0 +1,46 @@
+﻿body {
+}
+.footerMaster{
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+.loginView{
+    flex:auto;
+    margin-top:60px;
+    background-color:green;
+    border-top-left-radius:100px;
+    border-bottom-right-radius:100px;
+}
+.formView{
+    margin-top:30px;
+}
+.customerlist {
+    flex: auto;
+    background-color: green;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.topLine {
+   height:1px;
+   display:flex;
+   background-color:red;
+}
+.userStatus{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+   
+}
+.Gridtitel{
+    display:flex;
+    color:black;
+    font-weight:bold;
+    font-style:initial;
+    font-size:30px;
+    margin-left:60px;
+   
+}
+.topTitle{
+    margin-top:40px;
+}

@@ -1,0 +1,2 @@
+master page in asp.net 
+pakage folder is  deleted so when the run this project add pakage folder
